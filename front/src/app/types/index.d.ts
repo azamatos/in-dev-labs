@@ -1,0 +1,1 @@
+type ButtonVariants = "primary" | "secondary";
